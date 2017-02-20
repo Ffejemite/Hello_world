@@ -1,2 +1,3 @@
 # Hello_world
-My first attempt
+Hello Hubot,
+The earth must look very nice from the Moon.

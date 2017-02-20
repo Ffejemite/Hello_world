@@ -1,3 +1,3 @@
 # Hello_world
-Hello Hubot
-The earth must look vvery nice from the Moon.
+Hello Hubot,
+The earth must look very nice from the Moon.
